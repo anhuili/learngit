@@ -6,3 +6,4 @@ Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 switch master branch add
 creat  a new branch feature
+创建一个dev 分支，修改内容提交
